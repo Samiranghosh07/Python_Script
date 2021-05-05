@@ -1,4 +1,4 @@
-password complexity check
+#password complexity check
 
 import re
 p = input('enter password here :')
